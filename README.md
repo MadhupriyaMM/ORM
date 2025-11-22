@@ -61,7 +61,7 @@ class ProductsAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-c:\Users\acer\Pictures\Screenshots\Screenshot (17).png
+![alt text](<Screenshot (17).png>)
 
 
 ## RESULT
